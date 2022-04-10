@@ -1,2 +1,2 @@
 # Leukemia-detection
-Identifying the blast among the normal cells 
+Identifying the blast among normal cells 
